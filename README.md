@@ -4,9 +4,9 @@ Hi 👋 My name is Bilal Choudhary
 Computer Science @ UWaterloo | SWE Intern
 -----------------------------------------
 
-Hi I'm Bilal Choudhary, currently pursuing Computer Science at the University of Waterloo. Previously, I have worked as a SWE intern at OMERS and Questrade. My interests lie in backend technologies, systems development, and machine learning. I'm skilled in multiple programming languages, including C++, Java, Python, and JavaScript, and in my spare time I'm always eager to learn and explore new skills/tools.
+Hi I'm Bilal Choudhary, currently pursuing Computer Science at the University of Waterloo. Previously, I have worked as a SWE intern at OMERS and Questrade. My interests lie in backend technologies, systems development, and machine learning. I'm skilled in multiple programming languages, including Python, C++, Java, and JavaScript, and in my spare time I'm always eager to learn and explore new skills/tools.
 
-* 🌍  I'm based in Toronto
+* 🌍  I'm based in Toronto/Waterloo
 * 🖥️  See my portfolio at [Portfolio](http://bilalc3.github.io/tech/)
 * ✉️  You can contact me at [b3choudh@uwaterloo.ca](mailto:b3choudh@uwaterloo.ca)
 
